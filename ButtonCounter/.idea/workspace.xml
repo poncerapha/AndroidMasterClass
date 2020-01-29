@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="541fc6c0-bf99-43a7-b456-c430bc545dcc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/playing/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/playing/MainActivity.kt" afterDir="false" />
-    </list>
+    <list default="true" id="541fc6c0-bf99-43a7-b456-c430bc545dcc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,10 +105,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1290" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="871" />
+    <option name="y" value="98" />
     <option name="width" value="1270" />
-    <option name="height" value="1440" />
+    <option name="height" value="1337" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -219,7 +218,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1290" y="0" width="1270" height="1440" extended-state="0" />
+    <frame x="871" y="98" width="1270" height="1337" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" weight="0.32980457" />
