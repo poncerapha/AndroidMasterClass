@@ -63,6 +63,8 @@ class MainActivity : AppCompatActivity() {
                     }
                 return xmlResult.toString()
 
+                Log.d(TAG, "downloadXML: The response code was $response")
+
             } catch (e: Exception) {
                 val errorMessage: String = when (e) {
                     is MalformedURLException -> "downloadXML: Invalid URL ${e.message}"
